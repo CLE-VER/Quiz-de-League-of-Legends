@@ -19,4 +19,4 @@ Se tiver ideias para novas perguntas ou melhorias no algoritmo, contribua! Faça
 
 ---
 
-Prepare-se para descobrir qual campeão de *League of Legends* você realmente é! 🏅
+Prepare-se para descobrir qual campeão e região de *League of Legends* você realmente é! 🏅
